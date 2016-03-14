@@ -1,0 +1,14 @@
+C:\Users\SteingrubA\AppData\Local\Temporary Projects\Steam Game Randomizer\obj\x86\Debug\Steam_Game_Randomizer.Form1.resources
+C:\Users\SteingrubA\AppData\Local\Temporary Projects\Steam Game Randomizer\obj\x86\Debug\Steam_Game_Randomizer.Properties.Resources.resources
+C:\Users\SteingrubA\AppData\Local\Temporary Projects\Steam Game Randomizer\obj\x86\Debug\Steam Game Randomizer.csproj.GenerateResource.Cache
+C:\Users\SteingrubA\AppData\Local\Temporary Projects\Steam Game Randomizer\bin\Debug\Steam Game Randomizer.exe
+C:\Users\SteingrubA\AppData\Local\Temporary Projects\Steam Game Randomizer\bin\Debug\Steam Game Randomizer.pdb
+C:\Users\SteingrubA\AppData\Local\Temporary Projects\Steam Game Randomizer\obj\x86\Debug\Steam Game Randomizer.exe
+C:\Users\SteingrubA\AppData\Local\Temporary Projects\Steam Game Randomizer\obj\x86\Debug\Steam Game Randomizer.pdb
+C:\Users\SteingrubA\documents\visual studio 2010\Projects\Steam Game Randomizer\Steam Game Randomizer\obj\x86\Debug\Steam Game Randomizer.exe
+C:\Users\SteingrubA\documents\visual studio 2010\Projects\Steam Game Randomizer\Steam Game Randomizer\obj\x86\Debug\Steam Game Randomizer.pdb
+C:\Users\SteingrubA\documents\visual studio 2010\Projects\Steam Game Randomizer\Steam Game Randomizer\bin\Debug\Steam Game Randomizer.exe
+C:\Users\SteingrubA\documents\visual studio 2010\Projects\Steam Game Randomizer\Steam Game Randomizer\bin\Debug\Steam Game Randomizer.pdb
+C:\Users\SteingrubA\documents\visual studio 2010\Projects\Steam Game Randomizer\Steam Game Randomizer\obj\x86\Debug\Steam_Game_Randomizer.Form1.resources
+C:\Users\SteingrubA\documents\visual studio 2010\Projects\Steam Game Randomizer\Steam Game Randomizer\obj\x86\Debug\Steam_Game_Randomizer.Properties.Resources.resources
+C:\Users\SteingrubA\documents\visual studio 2010\Projects\Steam Game Randomizer\Steam Game Randomizer\obj\x86\Debug\Steam Game Randomizer.csproj.GenerateResource.Cache
